@@ -1,2 +1,3 @@
-# underscorejs.korean.translate
-underscore.js 한글 번역 및 분석
+# underscorejs 한글 번역 및 분석
+
+0.1.0 버전 번역 및 분석을 한 후 최신버전 번역 및 분석을 할 예정입니다.
